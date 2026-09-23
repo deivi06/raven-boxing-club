@@ -1,5 +1,7 @@
 # Raven Boxing Club — sitio web y panel de administración
 
+![Página de inicio de Raven Boxing Club](docs/screenshot-home.png)
+
 🔗 **Demo en vivo:** https://raven-boxing-club-5pc7vhve4-davidaniortetec.vercel.app
 
 Aplicación web para Raven Boxing Club (Orihuela, Alicante): sitio público
