@@ -90,8 +90,6 @@ La base ya está lista para crecer sin rehacer nada:
 - **Registro/login de socios y reservas de clases**: reutiliza Supabase
   Auth (ya integrado) añadiendo un rol de "socio" y tablas de
   `bookings`/`memberships`.
-- **Pagos**: Stripe se integra de forma directa sobre Supabase (Stripe
-  Checkout + webhooks a una tabla `payments`).
 - **Notificaciones**: Supabase tiene soporte nativo para triggers/Edge
   Functions que pueden disparar emails o push.
 - **Asistencia a entrenamientos**: una tabla `attendance` referenciando
